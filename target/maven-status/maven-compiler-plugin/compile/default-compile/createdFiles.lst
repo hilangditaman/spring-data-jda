@@ -1,0 +1,8 @@
+com/dana/bijak/entity/Term.class
+com/dana/bijak/StartApplication.class
+com/dana/bijak/SwaggerConfig.class
+com/dana/bijak/repository/PinjamanRepository.class
+com/dana/bijak/service/PinjamanServiceImpl.class
+com/dana/bijak/service/PinjamanService.class
+com/dana/bijak/controller/PinjamanController.class
+com/dana/bijak/entity/Pinjaman.class
